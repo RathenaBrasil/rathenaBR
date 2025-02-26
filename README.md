@@ -5,7 +5,6 @@
 > rAthena é um projeto colaborativo de desenvolvimento de software que gira em torno da criação de um pacote de servidor robusto de jogo de RPG online multijogador massivo (MMORPG). Escrito em C++, o programa é muito versátil e oferece NPCs, warps e modificações. O projeto é gerenciado conjuntamente por um grupo de voluntários localizados em todo o mundo, bem como por uma enorme comunidade que fornece controle de qualidade e suporte. rAthena é uma continuação do projeto eAthena.
 
 [Forum Oficial](https://rathena.org/board)|[Discord](https://rathena.org/discord)|[Wiki](#)|[Crowdfunding](#)|
---------|--------|--------
 
 ### Índice
 1. [Prerequisites](#1-prerequisites)
